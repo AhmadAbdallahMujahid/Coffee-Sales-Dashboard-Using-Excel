@@ -76,9 +76,13 @@ Built an interactive dashboard featuring:
 ## Files Included
 
 •	Coffee Sales Dashboard.xlsx – Excel workbook containing data preparation, analysis, and dashboard.
+
 •	README.md – Project documentation.
+
 •	Data – Folder containing the data for the project
+
 •	Screenshots – Folder containing screenshot of the dashboard
+
 •	Recordings – Folder containing a record of the dashboard
 
 ## Skills Demonstrated
